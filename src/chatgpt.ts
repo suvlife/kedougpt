@@ -41,7 +41,7 @@ export class ChatGPTBot {
   // please refer to the OpenAI API doc: https://beta.openai.com/docs/api-reference/introduction
   chatgptModelConfig: object = {
     // this model field is required
-    model: "gpt-4-1106-preview",
+    model: "gpt-4-0125-preview",
     // add your ChatGPT model parameters below
     temperature: 0.9,
     // max_tokens: 128000,
