@@ -43,7 +43,7 @@ export class ChatGPTBot {
     // this model field is required
     model: "gpt-4-0125-preview",
     // add your ChatGPT model parameters below
-    temperature: 0.9,
+    temperature: 0.8,
     // max_tokens: 128000,
   };
 
